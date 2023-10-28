@@ -1,2 +1,2 @@
 # Bigg project
- My c project
+ My first c project with my partner Yichen
